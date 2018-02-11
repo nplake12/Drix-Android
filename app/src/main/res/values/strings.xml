@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Drix</string>
+    <string name="loginBtn">Login</string>
+    <string name="googleBtn">Google</string>
+    <string name="anonymousBtn">Anonymous</string>
+    <string name="googleSignIn">Sign in</string>
+    <string name="signOutButton">Sign Out</string>
+    <string name="createUserBtn">Create User</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="create_user_email">Create User Email</string>
+    <string name="sign_in_email">Sign In Email</string>
+    <string name="threadPlaceholder">Threads View</string>
 </resources>

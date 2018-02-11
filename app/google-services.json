@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296125041039",
+    "firebase_url": "https://tmd-drix.firebaseio.com",
+    "project_id": "tmd-drix",
+    "storage_bucket": "tmd-drix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296125041039:android:112f6abf02d9ac98",
+        "android_client_info": {
+          "package_name": "com.tuckermillerdev.drix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296125041039-v1617jg7mlljar28lho1pmgu93r8j346.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuckermillerdev.drix",
+            "certificate_hash": "e2a0b1dbb881ebbe7f94e5398a5afce4ea1296a0"
+          }
+        },
+        {
+          "client_id": "296125041039-puctltmkq6c97thbo7nsm9ljjofc39pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDe7la1K9VYVMck-LLTAxz2q4i6ZFcnPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296125041039-puctltmkq6c97thbo7nsm9ljjofc39pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
